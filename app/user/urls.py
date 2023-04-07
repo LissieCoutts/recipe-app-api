@@ -1,5 +1,5 @@
 """
-Url mppings for the user api
+Url mappings for the user api
 """
 
 from django.urls import path
